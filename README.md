@@ -6,6 +6,7 @@
 
 ``` Speakers:
     - Sahil Baikar 
+    - Shubham Bochare 
     - Atharva Pawar 
 ```
 
