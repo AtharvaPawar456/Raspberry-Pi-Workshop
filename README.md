@@ -4,6 +4,11 @@
 
 ``` Duration: 3 hours 5mins  #Total: 185 mins```
 
+``` Speakers:
+    - Sahil Baikar 
+    - Atharva Pawar 
+```
+
 ## Index:
 
 #### Introduction to Raspberry Pi (30 minutes)
