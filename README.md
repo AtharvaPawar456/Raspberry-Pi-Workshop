@@ -4,6 +4,9 @@
 
 ``` Duration: 3 hours 5mins  #Total: 185 mins```
 
+```2 hrs:
+
+
 ``` Speakers:
     - Sahil Baikar 
     - Shubham Bochare 
