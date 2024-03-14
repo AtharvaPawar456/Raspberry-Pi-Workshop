@@ -4,8 +4,8 @@
 
 ``` Duration: 3 hours 5mins  #Total: 185 mins```
 
-```2 hrs:
 
+PPt Link : https://docs.google.com/presentation/d/13YPzWJVkutJs2djVJCrUHl2NOGs7BppY/edit?usp=sharing&ouid=113368785471196150118&rtpof=true&sd=true
 
 ``` Speakers:
     - Sahil Baikar 
